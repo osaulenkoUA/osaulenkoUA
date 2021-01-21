@@ -12,6 +12,10 @@
     * BEM, Scrum
     * Photoshop
 
+#### My Project:
+
+[weather-app-JS](https://osaulenkoua.github.io/weather-app-JS/dist/index.html) -
+
 <!--
 **osaulenkoUA/osaulenkoUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
