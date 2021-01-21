@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi there 👋
+
+### My TECH SKILLS
+
+    * JavaScript, TypeScript, Ajax
+    * React, Redux, Next.Js,
+    * HTML 5, CSS, SASS,CssGrid
+    * Git, VS Code, Chrome Dev Tools
+    * Webpack, Gulp, Npm,
+    * Node.js(express.js)
+    * MongoDB
+    * BEM, Scrum
+    * Photoshop
 
 <!--
 **osaulenkoUA/osaulenkoUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
